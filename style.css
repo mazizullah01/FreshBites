@@ -362,7 +362,7 @@ header .navbar {
     transition: 0.3s ease;
 }
 
-.gallery-section .gallery-list .gallery-item:hover .gallery-image {
+.gallery-section .gallery-item:hover .gallery-image {
     transform: scale(1.3);
 } 
 
@@ -501,7 +501,7 @@ header .navbar {
 
         .menu-section .menu-list .menu-item,
         .gallery-section .gallery-list .gallery-item {
-            width: 100% ;
+            width: 100%;
         }
 
         .testimonials-section .slider-wrapper{
