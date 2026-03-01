@@ -31,7 +31,7 @@ FreshBites/
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](readme-images/HomePage)
+![Home Page](readme-images/HomePage.png)
 
 ### Gallery Section
 ![Gellery Section](readme-images/Gellery.png)
